@@ -6,6 +6,11 @@
 This is a website that shows how to run a successfull online business, with have in mind a small development project of teaching HTML and CSS best practices.
 For that reason, i have decided to divide the website into four sections and apply html semantic rules, css organzisation. This Project aims to help html and css newbies to fully understand how to structure their codes semantically and make them self-explanatory.  
 
+
+### See Website
+[Click Here](https://lemanou7.github.io/week1-homework/) to download Vs Code to your computer.
+
+
 ### Installation
 
 
@@ -46,23 +51,23 @@ You can use any code editor of user choise, i use Vs Code because it is open sou
 
 1. Showing The Header
 
-![image-1](assets/images/code-snapshot1.png)
+![image-1](./assets/images/code-snapshot1.png)
 
 2. Showing section
 
-![image-2](assets/images/code-snapshot2.png)
+![image-2](./assets/images/code-snapshot2.png)
 
 3. Showing The aside 
 
-![image-3](assets/images/code-snapshot3.png)
+![image-3](./assets/images/code-snapshot3.png)
 
 4. Showing The footer
 
-![image-4](assets/images/code-snapshot4.png)
+![image-4](./assets/images/code-snapshot4.png)
 
 5. Full Webpage 
 
-![image-5](assets/images/code-snapshot5.png)
+![image-5](./assets/images/code-snapshot5.png)
 
 
 

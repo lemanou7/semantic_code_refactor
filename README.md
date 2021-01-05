@@ -51,19 +51,19 @@ You can use any code editor of user choise, i use Vs Code because it is open sou
 
 1. Showing The Header
 
-![image-1](./assets/images/code-snapshot1.png)
+![image-1](./assets/images/code-snapshot1.PNG)
 
 2. Showing section
 
-![image-2](./assets/images/code-snapshot2.png)
+![image-2](./assets/images/code-snapshot2.PNG)
 
 3. Showing The aside 
 
-![image-3](./assets/images/code-snapshot3.png)
+![image-3](./assets/images/code-snapshot3.PNG)
 
 4. Showing The footer
 
-![image-4](./assets/images/code-snapshot4.png)
+![image-4](./assets/images/code-snapshot4.PNG)
 
 5. Full Webpage 
 
